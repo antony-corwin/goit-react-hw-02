@@ -1,1 +1,1 @@
-goit-react-hw-02
+homework-2 by Fedorchenko Anton

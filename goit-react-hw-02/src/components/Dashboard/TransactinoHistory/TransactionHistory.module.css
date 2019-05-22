@@ -1,0 +1,19 @@
+.transactionTable {
+  border-spacing: 0em 0em;
+  border: 1px solid #ebeef2;
+  box-shadow: 0 3px 5px rgba(0, 0, 0, 0.5);
+  margin: 20px auto;
+  width: 870px;
+  text-align: center;
+  font-size: 18px;
+}
+.transactionItem {
+  width: 292px;
+  height: 68px;
+  background-color: #ebeef2;
+  border: 1px solid #ebeef2;
+  padding: 6px 0;
+  padding: 10px 40px;
+  color: #272727;
+  text-transform: uppercase;
+}
